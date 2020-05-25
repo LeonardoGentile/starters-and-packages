@@ -50,11 +50,12 @@
 - [dimple](https://github.com/PMSI-AlignAlytics/dimple) object-oriented API allowing you to create flexible axis-based charts using d3.js
 
 
-##  3. <a name='NodeJs'></a>NodeJs
+##  3. <a name='NodeJs'></a>JS & NodeJs
 - Starters
     - [hackathon-starter](https://github.com/sahat/hackathon-starter/) A boilerplate for Node.js web applications
 - Packages
     - [figlet.js](https://github.com/patorjk/figlet.js) A FIG Driver written in JavaScript which aims to fully implement the FIGfont spec.
+    - [noisejs](https://github.com/josephg/noisejs) Javascript 2D Perlin & Simplex noise functions
 
 ###  3.1. <a name='Packagedevelopment'></a>Package development
 
@@ -127,5 +128,4 @@
 
 - [Real World Example Apps](https://github.com/gothinkster/realworld) that adhere to the same API spec
     - [react-mobx-realworld-example-app](https://github.com/gothinkster/react-mobx-realworld-example-app) React + Mobx codebase containing real world examples (CRUD, auth, advanced patterns, etc)
-- [astral](https://github.com/astralapp/astral) Organize Your GitHub Stars With Ease (PHP + Vue)
 - [favesound-mobx](https://github.com/rwieruch/favesound-mobx) A SoundCloud Client in React + MobX running in production
